@@ -1,19 +1,9 @@
 # Employee Management System
 
-## Description
-The Employee Management System (EMS) is a terminal-based application developed using C programming. The system allows an administrator to manage employee records securely with password-protected features. The functionalities include adding, viewing, searching, and deleting employee data. The program is designed to be user-friendly, operating directly from the terminal.
+## About
+This is the first university project developed by our team as part of the *Data Structure* course. The project, *Employee Management System*, was completed using C programming and serves as a terminal-based application. It allows users to manage employee records with password-protected features and various functionalities such as adding, viewing, searching, and deleting employee details.
 
-## Features
-- *Add Employee*: Securely add new employees (password-protected).
-- *View Employees*: View a list of all employees in the system.
-- *Search Employees by Name*: Search for employees by their names.
-- *Search Employees by ID*: Search for employees based on their ID.
-- *Delete Employee*: Securely delete an employee record (password-protected).
-- *Exit*: Exit the program safely.
+Our team of three members worked together to design and implement this system. We learned a lot about programming, data structures, file handling, and incorporating security features like password protection.
 
-## Installation
-To run the Employee Management System locally:
-
-1. Clone the repository:
-   ```bash
-   https://github.com/ak1bhasan/Employee-Management-System.git
+## Team Members
+- [Your Name](https://github.com/ak1bhasan) - Project Lead
