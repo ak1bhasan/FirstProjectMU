@@ -7,5 +7,5 @@ Our team of three members worked together to design and implement this system. W
 
 ## Team Members
 - [MD. MASUDUL HASAN AKIB](https://github.com/ak1bhasan) - Project Lead
-- [JIBRAN MASUM DIDAR] - Contributor
-- [MD. UDOY HOSSAIN TAHIM] - Contributor
+- JIBRAN MASUM DIDAR - Contributor
+- MD. UDOY HOSSAIN TAHIM - Contributor
